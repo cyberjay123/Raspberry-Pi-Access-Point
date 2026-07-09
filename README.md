@@ -94,3 +94,13 @@ See `SETUP.md` for detailed installation and configuration steps.
 * Designed and deployed a Linux-based wireless access point using Raspberry Pi 5, hostapd, dnsmasq, and nftables.
 * Configured DHCP, DNS, routing, and NAT services to support wireless client connectivity.
 * Implemented wireless security controls and troubleshooting procedures in a Debian Linux environment.
+
+## Proof of Functionality
+
+The following screenshots demonstrate successful deployment of the access point:
+
+- hostapd service running
+- dnsmasq service running
+- DHCP lease assignment
+- Wireless client connection
+- NAT and routing configuration
