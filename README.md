@@ -85,7 +85,32 @@ The Raspberry Pi successfully functioned as a wireless access point capable of:
 * Intrusion detection integration
 * Enhanced monitoring and logging
 
-## Setup Instructions
+## Proof of Functionality
+
+The following screenshots demonstrate successful deployment and testing of the Raspberry Pi wireless access point:
+
+- hostapd service running
+- dnsmasq service running
+- DHCP lease assignment
+- Wireless client connection
+- NAT and routing configuration
+- Network interface configuration
+- Network architecture diagram
+
+## Skills Demonstrated
+
+- Linux Administration
+- Raspberry Pi Configuration
+- Wireless Networking
+- DHCP Configuration (dnsmasq)
+- Access Point Configuration (hostapd)
+- Network Address Translation (NAT)
+- Firewall Configuration (nftables)
+- SSH Remote Administration
+- Network Troubleshooting
+- Technical Documentation
+
+- ## Setup Instructions
 
 See `SETUP.md` for detailed installation and configuration steps.
 
